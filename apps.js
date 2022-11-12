@@ -24,7 +24,7 @@ let nestedTag = document.getElementById(`SubHeader`);
 // This is changing a paragraph to an H6 header
 
 let changeTag = document.getElementById(`secondPara`);
-        changeTag.outerHTML = `<h6>"This is now a Header!"</h6>`;
+    changeTag.outerHTML = `<h6>"This is now a Header!"</h6>`;
 
 // this is to add a P Tag before the footer header
 
